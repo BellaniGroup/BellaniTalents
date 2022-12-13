@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "348006578830",
+    "project_id": "bellani-talents",
+    "storage_bucket": "bellani-talents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348006578830:android:01784f87c229318d7267df",
+        "android_client_info": {
+          "package_name": "com.bellani.talents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348006578830-g195jbqhuk0vaqj6iihif72t4saajael.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bellani.talents",
+            "certificate_hash": "2e9723e45daebf56031d870e6aec763098a96dbf"
+          }
+        },
+        {
+          "client_id": "348006578830-4r6879n1l0fi7kfnusasft1e93f4dc8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFTy3i3fJmKeKqK-UFZUSxfVI0XOZhVmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348006578830-4r6879n1l0fi7kfnusasft1e93f4dc8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348006578830-bv3vlcqq5rkq9h9ktarcvt0vf3i2rnu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bellani.talentsmarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
